@@ -1,0 +1,3 @@
+test for command 'git push origin master' after that another one had changed the remote repository .
+                                                                                 
+                                                                                  ----------from the Third file
